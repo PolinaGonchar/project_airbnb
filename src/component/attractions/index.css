@@ -1,0 +1,15 @@
+.attractions {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+  }
+
+  .attractions__list {
+    display: grid;
+    gap: 12px;
+  }
+
+  .attraction__link {
+    color: #000;
+    font-size: 16px;
+  }
